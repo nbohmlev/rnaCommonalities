@@ -4,8 +4,6 @@ def mirDbBotWrapper(url, region, mirName):
     bot = MDB.mirDbBot()
     bot.openPage(url)
     species = "'Mouse'"
-    #region = "'5utr'"
-    #mirName = 'mmu-miR-125a-5p'
     bot.fillForm(species, region, mirName)
     resDict = bot.getResult()
     bot.killFox()

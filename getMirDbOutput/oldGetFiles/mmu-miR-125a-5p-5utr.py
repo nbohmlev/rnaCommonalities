@@ -1,8 +1,8 @@
-from rnaMotifs.mirDbBot import mirDbBotWrapper as MB
+from rnaMotifs.getMirDbOutputSrc import mirDbBotWrapper as MB
 
 if __name__=="__main__":
     url = "http://mirdb.org/miRDB/custom.html"
     region = "'5utr'"                                                                                             
     mirName = 'mmu-miR-125a-5p'
     #mode = "default"
-    MB.mirDbBotWrapper(url, region, mirName)
+    MB.mirDbBotWrapper(mirName)

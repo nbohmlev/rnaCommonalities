@@ -19,7 +19,7 @@ class mirDbBot():
     def getDriver(self):
         return self.driver
 
-    def openPage(self, url):
+    def openPage(self, url):  
         driver = self.driver
         driver.get(url)
         

@@ -1,0 +1,463 @@
+Gene Symbol	Gene Description	Gene ID	Genbank Accession	Seed Location	Target Score
+Mlec	malectin	109154	NM_175403	2098	51
+Cers2	ceramide synthase 2	76893	NM_029789	735	91
+Cnih4	cornichon homolog 4 (Drosophila)	98417	NM_030131	2601	51
+Rbbp7	retinoblastoma binding protein 7	245688	NM_009031	154	54
+Rbbp6	retinoblastoma binding protein 6	19647	NM_175023		60
+Tspan5	tetraspanin 5	56224	NM_019571	902	60
+Cbfa2t2	core-binding factor, runt domain, alpha subunit 2, translocated to, 2 (human)	12396	NM_172860	4083	96
+Phldb2	pleckstrin homology-like domain, family B, member 2	208177	NM_153412	1433	69
+Ccnj	cyclin J	240665	NM_172839	2278	88
+Iffo2	intermediate filament family orphan 2	212632	NM_183148	3875	89
+Zfhx4	zinc finger homeodomain 4	80892	NM_030708	1050	82
+Usp47	ubiquitin specific peptidase 47	74996	NM_133758	198	93
+Syt4	synaptotagmin IV	20983	NM_009308	2085	83
+Usp40	ubiquitin specific peptidase 40	227334	NM_001198573	681, 1179	88
+Epc1	enhancer of polycomb homolog 1 (Drosophila)	13831	NM_027497	630	82
+Klf6	Kruppel-like factor 6	23849	NM_011803	1371	90
+Bcl9	B cell CLL/lymphoma 9	77578	NM_029933	413	88
+Rbm33	RNA binding motif protein 33	381626	NM_028234	2618, 5580	96
+Snx4	sorting nexin 4	69150	NM_080557	983	83
+Zfp846	zinc finger protein 846	244721	NM_172919	662	50
+Lrrn1	leucine rich repeat protein 1, neuronal	16979	NM_008516	528	83
+Akt3	thymoma viral proto-oncogene 3	23797	NM_011785	2826	80
+Dag1	dystroglycan 1	13138	NM_001276493	387	92
+Gngt1	guanine nucleotide binding protein (G protein), gamma transducing activity polypeptide 1	14699	NM_010314	592	93
+Dhx35	DEAH (Asp-Glu-Ala-His) box polypeptide 35	71715	NM_145742	914	72
+Col10a1	collagen, type X, alpha 1	12813	NM_009925	893	96
+Cebpa	CCAAT/enhancer binding protein (C/EBP), alpha	12606	NM_001287523	793	63
+Ipo8	importin 8	320727	NM_001081113	2067	69
+Zfp385b	zinc finger protein 385B	241494	NM_178723	514, 532	95
+Zfp719	zinc finger protein 719	210105	NM_172482	540	56
+Sms	spermine synthase	20603	NM_009214	1308	63
+Tfpi2	tissue factor pathway inhibitor 2	21789	NM_009364	135	85
+Zfp654	zinc finger protein 654	72020	NM_028059	2663	64
+Raph1	Ras association (RalGDS/AF-6) and pleckstrin homology domains 1	77300	NM_001045513	771, 847	83
+Dcaf7	DDB1 and CUL4 associated factor 7	71833	NM_027946	2927, 4190	55
+Gabrb2	gamma-aminobutyric acid (GABA) A receptor, subunit beta 2	14401	NM_008070	3663	73
+Gad1	glutamate decarboxylase 1	14415	NM_008077	879	73
+Pacrg	PARK2 co-regulated	69310	NM_027032	187	56
+Impa1	inositol (myo)-1(or 4)-monophosphatase 1	55980	NM_018864	275, 810	91
+Six4	sine oculis-related homeobox 4	20474	NM_011382	2996	79
+Fam3c	family with sequence similarity 3, member C	27999	NM_138587	466	66
+Kdm5a	lysine (K)-specific demethylase 5A	214899	NM_145997	1778, 3008	66
+Sltm	SAFB-like, transcription modulator	66660	NM_025690	464	59
+Zswim6	zinc finger SWIM-type containing 6	67263	NM_145456	646	94
+Fam179b	family with sequence similarity 179, member B	328108	NM_177805	809	76
+Nupl2	nucleoporin like 2	231042	NM_153092	380	74
+Gm22	predicted gene 22	195209	XM_006544366	1227	68
+Map3k8	mitogen-activated protein kinase kinase kinase 8	26410	NM_007746	593	73
+Map3k9	mitogen-activated protein kinase kinase kinase 9	338372	NM_001174107	6944	70
+Ppp1r2	protein phosphatase 1, regulatory (inhibitor) subunit 2	66849	NM_025800	210	64
+Arl14epl	ADP-ribosylation factor-like 14 effector protein-like	381142	NM_001033446	712, 1399	81
+Tnrc18	trinucleotide repeat containing 18	231861	NM_178242		77
+Frem3	Fras1 related extracellular matrix protein 3	333315	NM_001167898	100	54
+Ccdc39	coiled-coil domain containing 39	51938	NM_026222	545	60
+Rab5a	RAB5A, member RAS oncogene family	271457	NM_025887	788	63
+Pde4d	phosphodiesterase 4D, cAMP specific	238871	NM_011056	2924	73
+Stim2	stromal interaction molecule 2	116873	NM_001081103	919, 2015	75
+Tshz3	teashirt zinc finger family member 3	243931	NM_172298	1113, 1155	100
+Rps6kb1	ribosomal protein S6 kinase, polypeptide 1	72508	NM_028259		62
+Rfx3	regulatory factor X, 3 (influences HLA class II expression)	19726	NM_011265	3426, 4445, 6513	99
+Srsf11	serine/arginine-rich splicing factor 11	69207	NM_026989	1392	89
+LOC102642413	flocculation protein FLO10-like	102642413	XM_006543645	400, 809	67
+Zcchc2	zinc finger, CCHC domain containing 2	227449	NM_001122675	27, 2636	69
+N4bp1	NEDD4 binding protein 1	80750	NM_030563	3421	65
+Nova1	neuro-oncological ventral antigen 1	664883	NM_021361	61	70
+Csrnp1	cysteine-serine-rich nuclear protein 1	215418	NM_153287	322	82
+Fam169a	family with sequence similarity 169, member A	320557	NM_001146045	596	69
+Rin2	Ras and Rab interactor 2	74030	NM_028724	792, 1018	82
+Rap2c	RAP2C, member of RAS oncogene family	72065	NM_172413	2316	95
+Sel1l	sel-1 suppressor of lin-12-like (C. elegans)	20338	NM_001039089	592, 3756	98
+Etv5	ets variant gene 5	104156	NM_023794	2124	83
+Kcnc1	potassium voltage gated channel, Shaw-related subfamily, member 1	16502	NM_008421	1916, 4496	57
+Sub1	SUB1 homolog (S. cerevisiae)	20024	NM_011294	22	98
+Zfp532	zinc finger protein 532	328977	NM_207255	335	63
+Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	108155	NM_139144	788	61
+Hif1a	hypoxia inducible factor 1, alpha subunit	15251	NM_010431	1146	88
+Pop4	processing of precursor 4, ribonuclease P/MRP family, (S. cerevisiae)	66161	NM_025390	166	70
+Prrg1	proline rich Gla (G-carboxyglutamic acid) 1	546336	NM_001289683	244	66
+Stam2	signal transducing adaptor molecule (SH3 domain and ITAM motif) 2	56324	NM_019667	499, 2460	71
+Ermp1	endoplasmic reticulum metallopeptidase 1	226090	NM_001081213	149	63
+Tmem161b	transmembrane protein 161B	72745	NM_175187	362, 579	94
+Phf20l1	PHD finger protein 20-like 1	239510	NM_001081409	1587	83
+Ubn2	ubinuclein 2	320538	NM_177185	547, 9652	93
+Pcnxl4	pecanex-like 4 (Drosophila)	67708	NM_026327	455	67
+Prkaa1	protein kinase, AMP-activated, alpha 1 catalytic subunit	105787	NM_001013367	2427	63
+Commd2	COMM domain containing 2	52245	NM_175095	1809, 1820	75
+Bche	butyrylcholinesterase	12038	NM_009738	549, 1347	54
+Akap11	A kinase (PRKA) anchor protein 11	219181	NM_001164503	455	69
+B3gnt3	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 3	72297	NM_028189	153	60
+Fam46a	family with sequence similarity 46, member A	212943	NM_001160378	3035	66
+Terf2	telomeric repeat binding factor 2	21750	NM_001083118		57
+Pla2g7	phospholipase A2, group VII (platelet-activating factor acetylhydrolase, plasma)	27226	NM_013737	136	87
+Tmem194b	transmembrane protein 194B	227094	NM_001142647	1188	99
+Bank1	B cell scaffold protein with ankyrin repeats 1	242248	NM_001033350	160	50
+Tsc22d1	TSC22 domain family, member 1	21807	NM_001177751	540	66
+Tsc22d2	TSC22 domain family, member 2	72033	NM_001081229	1071, 6471	50
+Jdp2	Jun dimerization protein 2	81703	NM_001205052	802	72
+Ssr3	signal sequence receptor, gamma	67437	NM_026155	2175	68
+Emp2	epithelial membrane protein 2	13731	NM_007929	2582	96
+Emp1	epithelial membrane protein 1	13730	NM_001288627	1923	99
+Gpr116	G protein-coupled receptor 116	224792	NM_001081178	275	84
+Zcchc10	zinc finger, CCHC domain containing 10	67966	NM_026479	518	56
+Atg101	autophagy related 101	68118	NM_026566	224	78
+Tulp4	tubby like protein 4	68842	NM_054040	3778	85
+Slc12a6	solute carrier family 12, member 6	107723	NM_133649	523	57
+Slc12a2	solute carrier family 12, member 2	20496	NM_009194	2655	94
+Zfp746	zinc finger protein 746	69228	NM_001163475	856, 1329	98
+Trio	triple functional domain (PTPRF interacting)	223435	NM_001081302	1674	72
+Fryl	furry homolog-like (Drosophila)	72313	NM_028194	1708	59
+Pof1b	premature ovarian failure 1B	69693	NM_181579	717	55
+Mpp5	membrane protein, palmitoylated 5 (MAGUK p55 subfamily member 5)	56217	NM_019579	1004, 1262, 2863	70
+Kbtbd8	kelch repeat and BTB (POZ) domain containing 8	243574	NM_001008785	473, 2596	98
+Rfpl4b	ret finger protein-like 4B	215919	NM_001177783	117	65
+Gcc2	GRIP and coiled-coil domain containing 2	70297	NM_027375	298, 910	73
+Cdh11	cadherin 11	12552	NM_009866	762	96
+Dnmt3a	DNA methyltransferase 3A	13435	NM_001271753	791	74
+Pcgf5	polycomb group ring finger 5	76073	NM_029508	398	94
+Rrm1	ribonucleotide reductase M1	20133	NM_009103	142	64
+Tmem65	transmembrane protein 65	74868	NM_175212	293, 303	97
+Mtmr2	myotubularin related protein 2	77116	NM_023858	886	97
+Oxsm	3-oxoacyl-ACP synthase, mitochondrial	71147	NM_027695	1086	55
+Gpd1l	glycerol-3-phosphate dehydrogenase 1-like	333433	NM_175380	2553	83
+Nr1d2	nuclear receptor subfamily 1, group D, member 2	353187	NM_011584	2202, 2223	97
+Asap1	ArfGAP with SH3 domain, ankyrin repeat and PH domain1	13196	NM_001276462	2127, 2517	86
+Ctcf	CCCTC-binding factor	13018	NM_181322	1173	73
+Bend4	BEN domain containing 4	666938	NM_001164806	2153, 5759	67
+Cldn11	claudin 11	18417	NM_008770	883	73
+Kat7	K(lysine) acetyltransferase 7	217127	NM_001195004	273	65
+Flrt3	fibronectin leucine rich transmembrane protein 3	71436	NM_001172160	117, 250	100
+Flrt2	fibronectin leucine rich transmembrane protein 2	399558	NM_201518	256, 1696, 2660	96
+Mtx3	metaxin 3	382793	NM_001162945	225	67
+Mtx2	metaxin 2	53375	NM_016804	152	78
+Smarca1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 1	93761	NM_053123	288	97
+Car13	carbonic anhydrase 13	71934	NM_024495	467	77
+Smarca4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	20586	NM_011417	291	92
+Pdzd11	PDZ domain containing 11	72621	NM_028303	152	75
+Cdk5r1	cyclin-dependent kinase 5, regulatory subunit 1 (p35)	12569	NM_009871	1995, 2713	82
+Dennd1b	DENN/MADD domain containing 1B	329260	NM_181347	1180	62
+Zdhhc21	zinc finger, DHHC domain containing 21	68268	NM_026647	7103, 7540	96
+Dot1l	DOT1-like, histone H3 methyltransferase (S. cerevisiae)	208266	NM_199322	135	88
+Zeb1	zinc finger E-box binding homeobox 1	21417	NM_011546	1203	95
+Sigmar1	sigma non-opioid intracellular receptor 1	18391	NM_001286605	382	66
+Ing3	inhibitor of growth family, member 3	71777	NM_023626	386	88
+Ptgs2	prostaglandin-endoperoxide synthase 2	19225	NM_011198	1619	65
+Ddit4	DNA-damage-inducible transcript 4	74747	NM_029083	230	82
+Zfp36l2	zinc finger protein 36, C3H type-like 2	12193	NM_001001806	1780	99
+Negr1	neuronal growth regulator 1	320840	NM_001039094	3491	66
+Eny2	enhancer of yellow 2 homolog (Drosophila)	223527	NM_175009	391	97
+Pja2	praja 2, RING-H2 motif containing	224938	NM_144859	1568	56
+Has1	hyaluronan synthase1	15116	NM_008215	254	85
+Has2	hyaluronan synthase 2	15117	NM_008216	537	85
+Lrch1	leucine-rich repeats and calponin homology (CH) domain containing 1	380916	NM_001252132	1823	84
+Tgfbr3	transforming growth factor, beta receptor III	21814	NM_011578	2663	85
+Naip5	NLR family, apoptosis inhibitory protein 5	17951	NM_010870	641	53
+Aspn	asporin	66695	NM_001172481	292, 423	95
+Thrb	thyroid hormone receptor beta	21834	NM_001113417	3523	59
+Tgfbr1	transforming growth factor, beta receptor I	21812	NM_009370	421, 3808	99
+Plekha5	pleckstrin homology domain containing, family A member 5	109135	NM_144920	499	55
+Ppme1	protein phosphatase methylesterase 1	72590	NM_028292	159	59
+Abhd17c	abhydrolase domain containing 17C	70178	NM_133722	1112	96
+6030498E09Rik	RIKEN cDNA 6030498E09 gene	77883	NM_183126	488	69
+B3galt1	UDP-Gal:betaGlcNAc beta 1,3-galactosyltransferase, polypeptide 1	26877	NM_020283	1248, 2892, 2925	98
+Atp8a1	ATPase, aminophospholipid transporter (APLT), class I, type 8A, member 1	11980	NM_009727	801	73
+Ube2d3	ubiquitin-conjugating enzyme E2D 3	66105	NM_025356	1267	57
+Ube2d1	ubiquitin-conjugating enzyme E2D 1	216080	NM_145420	29	94
+Parp11	poly (ADP-ribose) polymerase family, member 11	101187	NM_181402	2148	52
+Mob4	MOB family member 4, phocein	19070	NM_025283	46, 834	100
+Aebp2	AE binding protein 2	11569	NM_001005605	1015, 1106	95
+5330417C22Rik	RIKEN cDNA 5330417C22 gene	229722	NM_001033304	217	60
+Fga	fibrinogen alpha chain	14161	NM_010196	1550	94
+Nrk	Nik related kinase	27206	NM_013724	722	81
+Tnpo1	transportin 1	238799	NM_178716	1030	94
+3110057O12Rik	RIKEN cDNA 3110057O12 gene	269423	NM_026622	352	94
+Abhd10	abhydrolase domain containing 10	213012	NM_172511	874	86
+Arhgef3	Rho guanine nucleotide exchange factor (GEF) 3	71704	NM_027871	140	85
+Pitpnm2	phosphatidylinositol transfer protein, membrane-associated 2	19679	NM_011256	2445	54
+Gfpt1	glutamine fructose-6-phosphate transaminase 1	14583	NM_013528	763, 1960, 2975	51
+Sh3pxd2a	SH3 and PX domains 2A	14218	NM_008018	2374, 4258	57
+Kctd6	potassium channel tetramerisation domain containing 6	71393	NM_027782	644	54
+Stag2	stromal antigen 2	20843	NM_001077712	1826	97
+App	amyloid beta (A4) precursor protein	11820	NM_001198825	255	53
+Slc34a2	solute carrier family 34 (sodium phosphate), member 2	20531	NM_011402	1383, 2025	57
+Fbxo30	F-box protein 30	71865	NM_001168297	2509	59
+Nlk	nemo like kinase	18099	NM_008702	86	98
+Gpr85	G protein-coupled receptor 85	64450	NM_145066	483	96
+BC026585	cDNA sequence BC026585	226527	NM_001033284	180, 205	76
+Stau2	staufen (RNA binding protein) homolog 2 (Drosophila)	29819	NM_001111272	149	65
+Trps1	trichorhinophalangeal syndrome I (human)	83925	NM_032000	3203, 3348, 3932	58
+Piezo1	piezo-type mechanosensitive ion channel component 1	234839	NM_001037298	224	92
+Kdm6b	KDM1 lysine (K)-specific demethylase 6B	216850	NM_001017426	884	61
+Ajap1	adherens junction associated protein 1	230959	NM_001099299	569	94
+Purb	purine rich element binding protein B	19291	NM_011221	2143, 4848	52
+Purg	purine-rich element binding protein G	75029	NM_001098233	501	65
+Lrp2	low density lipoprotein receptor-related protein 2	14725	NM_001081088	189, 997	75
+Zfp518a	zinc finger protein 518A	72672	NM_028319	1663	91
+Rac1	RAS-related C3 botulinum substrate 1	19353	NM_009007	490	84
+Asic1	acid-sensing (proton-gated) ion channel 1	11419	NM_001289791	1098	60
+Crisp4	cysteine-rich secretory protein 4	78081	NM_030033	71	56
+Col4a3	collagen, type IV, alpha 3	12828	NM_007734	1047, 1457	70
+Bmx	BMX non-receptor tyrosine kinase	12169	NM_009759	277	70
+Emc6	ER membrane protein complex subunit 6	66048	NM_025318	107	71
+Lzic	leucine zipper and CTNNBIP1 domain containing	69151	NM_026963	486	79
+Vcam1	vascular cell adhesion molecule 1	22329	NM_011693	618	51
+Sgpl1	sphingosine phosphate lyase 1	20397	NM_009163	2019	87
+Pmaip1	phorbol-12-myristate-13-acetate-induced protein 1	58801	NM_021451	1177	51
+Olfr701	olfactory receptor 701	66786	NM_028910	1531	85
+Fbn2	fibrillin 2	14119	NM_010181	850	86
+Pdp1	pyruvate dehyrogenase phosphatase catalytic subunit 1	381511	NM_001098230	1698	58
+Pdp2	pyruvate dehyrogenase phosphatase catalytic subunit 2	382051	NM_001024606	643	54
+Map9	microtubule-associated protein 9	213582	NM_001081230	3160	61
+Rnf180	ring finger protein 180	71816	NM_027934	1761, 1843	56
+Rab30	RAB30, member RAS oncogene family	75985	NM_029494	321, 442	54
+Hnrnpa0	heterogeneous nuclear ribonucleoprotein A0	77134	NM_029872	780	77
+Ino80d	INO80 complex subunit D	227195	NM_001081436	9934	81
+Pcdh8	protocadherin 8	18530	NM_001042726	142	93
+Morn4	MORN repeat containing 4	226123	NM_198108	1114	92
+Zfp827	zinc finger protein 827	622675	NM_178267	970	77
+Pcdh7	protocadherin 7	54216	NM_001122758	2376	58
+Capn2	calpain 2	12334	NM_009794	927	80
+Tmem236	transmembrane protein 236	625286	NM_001081310	2399	81
+Dusp1	dual specificity phosphatase 1	19252	NM_013642	481	70
+Btbd3	BTB (POZ) domain containing 3	228662	NM_145534	2841	92
+Arhgap19	Rho GTPase activating protein 19	71085	NM_001163495	327	78
+Adamtsl3	ADAMTS-like 3	269959	NM_001190374	1850	97
+Ddx3x	DEAD/H (Asp-Glu-Ala-Asp/His) box polypeptide 3, X-linked	13205	NM_010028	303	63
+Acp2	acid phosphatase 2, lysosomal	11432	NM_007387	188	71
+Otud4	OTU domain containing 4	73945	NM_001081164	1559	69
+Scn8a	sodium channel, voltage-gated, type VIII, alpha	20273	NM_011323	5176	89
+Lhfp	lipoma HMGIC fusion partner	108927	NM_175386	602	65
+Nsd1	nuclear receptor-binding SET-domain protein 1	18193	NM_008739	3360, 4536	69
+Mgat4a	mannoside acetylglucosaminyltransferase 4, isoenzyme A	269181	NM_173870	784	60
+Cdh5	cadherin 5	12562	NM_009868	1459	76
+C030046E11Rik	RIKEN cDNA C030046E11 gene	226089	NM_001081319	1260	83
+Mycn	v-myc myelocytomatosis viral related oncogene, neuroblastoma derived (avian)	18109	NM_008709	489, 556	100
+Zfp235	zinc finger protein 235	56525	NM_019941	321	54
+Qk	quaking	19317	NM_021881	1488, 4121	55
+Mycs	myc-like oncogene, s-myc protein	17870	NM_010850	512	70
+Slc1a1	solute carrier family 1 (neuronal/epithelial high affinity glutamate transporter, system Xag), member 1	20510	NM_009199	612	97
+Rap1b	RAS related protein 1b	215449	NM_024457	305, 961	84
+Tab3	TGF-beta activated kinase 1/MAP3K7 binding protein 3	66724	NM_025729	1581	55
+Foxn3	forkhead box N3	71375	NM_183186	1125	77
+Slc39a10	solute carrier family 39 (zinc transporter), member 10	227059	NM_172653	59, 150	91
+Dzip1	DAZ interacting protein 1	66573	NM_025943	339	58
+LOC102642798	keratin-associated protein 16-1-like	102642798	XM_006542856	20	58
+Magi1	membrane associated guanylate kinase, WW and PDZ domain containing 1	14924	NM_001083320	409, 1428	59
+Ubr7	ubiquitin protein ligase E3 component n-recognin 7 (putative)	66622	NM_025666	651, 1327	93
+Chek1	checkpoint kinase 1	12649	NM_007691	463, 1158, 1200	74
+Ppfia4	protein tyrosine phosphatase, receptor type, f polypeptide (PTPRF), interacting protein (liprin), alpha 4	68507	NM_001144855	1985	72
+Dlgap3	discs, large (Drosophila) homolog-associated protein 3	242667	NM_198618	47	50
+Ppfia2	protein tyrosine phosphatase, receptor type, f polypeptide (PTPRF), interacting protein (liprin), alpha 2	327814	NM_177373	456	84
+Ppfia1	protein tyrosine phosphatase, receptor type, f polypeptide (PTPRF), interacting protein (liprin), alpha 1	233977	NM_001033319	308	85
+Pip5k1c	phosphatidylinositol-4-phosphate 5-kinase, type 1 gamma	18717	NM_008844	1728, 1877	62
+Rhoq	ras homolog gene family, member Q	104215	NM_145491	1635	55
+Ndfip1	Nedd4 family interacting protein 1	65113	NM_022996	117	89
+Rgs1	regulator of G-protein signaling 1	50778	NM_015811	219	74
+Slc30a7	solute carrier family 30 (zinc transporter), member 7	66500	NM_023214	39, 3862, 5102	77
+Pank3	pantothenate kinase 3	211347	NM_145962	300	54
+Mark1	MAP/microtubule affinity-regulating kinase 1	226778	NM_145515	1493	99
+Ablim3	actin binding LIM protein family, member 3	319713	NM_001164491	126	77
+Crls1	cardiolipin synthase 1	66586	NM_025646	475	59
+Mbnl1	muscleblind-like 1 (Drosophila)	56758	NM_020007	1575	89
+Mbnl3	muscleblind-like 3 (Drosophila)	171170	NM_134163	393, 5031	92
+Cd2bp2	CD2 antigen (cytoplasmic tail) binding protein 2	70233	NM_001285907	1745	88
+Fa2h	fatty acid 2-hydroxylase	338521	NM_178086	1184	71
+Tia1	cytotoxic granule-associated RNA binding protein 1	21841	NM_001164079	2334	65
+Fos	FBJ osteosarcoma oncogene	14281	NM_010234	535	97
+D10Bwg1379e	DNA segment, Chr 10, Brigham & Women's Genetics 1379 expressed	215821	NM_001033258	607	50
+Gsk3b	glycogen synthase kinase 3 beta	56637	NM_019827	4851	86
+Fam110c	family with sequence similarity 110, member C	104943	NM_027828	716	61
+Lmnb1	lamin B1	16906	NM_010721	222	61
+Kat6b	K(lysine) acetyltransferase 6B	54169	NM_001205241	484	70
+Neto2	neuropilin (NRP) and tolloid (TLL)-like 2	74513	NM_001081324	514, 1249, 3440	57
+Unc79	unc-79 homolog (C. elegans)	217843	NM_001081017	93	87
+1810013L24Rik	RIKEN cDNA 1810013L24 gene	69053	NM_001081400	1306	51
+Nav2	neuron navigator 2	78286	NM_001111016	813	96
+Skint9	selection and upkeep of intraepithelial T cells 9	329918	NM_177864	124	87
+Tstd2	thiosulfate sulfurtransferase (rhodanese)-like domain containing 2	272027	NM_173033	995	92
+Rbm18	RNA binding motif protein 18	67889	NM_026434	63, 462	68
+Kcna1	potassium voltage-gated channel, shaker-related subfamily, member 1	16485	NM_010595	1066	74
+Fgd6	FYVE, RhoGEF and PH domain containing 6	13998	NM_053072	250, 3536	83
+Sgip1	SH3-domain GRB2-like (endophilin) interacting protein 1	73094	NM_001285860	156, 325	64
+Rnf38	ring finger protein 38	73469	NM_175201	583	63
+Ankrd17	ankyrin repeat domain 17	81702	NM_030886	299	92
+Sec63	SEC63-like (S. cerevisiae)	140740	NM_153055	1238, 2295	53
+Dip2b	DIP2 disco-interacting protein 2 homolog B (Drosophila)	239667	NM_172819	342, 3897	97
+Med13	mediator complex subunit 13	327987	NM_001080931	2538	93
+Slc25a24	solute carrier family 25 (mitochondrial carrier, phosphate carrier), member 24	229731	NM_172685	211	65
+Cdk8	cyclin-dependent kinase 8	264064	NM_153599	88, 1064	100
+Stc1	stanniocalcin 1	20855	NM_009285	71, 656, 758	100
+Ap3d1	adaptor-related protein complex 3, delta 1 subunit	11776	NM_007460	66	67
+Eya1	eyes absent 1 homolog (Drosophila)	14048	NM_001252192	197	70
+Bicd2	bicaudal D homolog 2 (Drosophila)	76895	NM_029791	1747	94
+Pdhx	pyruvate dehydrogenase complex, component X	27402	NM_175094	109	62
+Slc16a9	solute carrier family 16 (monocarboxylic acid transporters), member 9	66859	NM_025807	600, 1302	52
+Dstyk	dual serine/threonine and tyrosine protein kinase	213452	NM_172516	1778, 2892	72
+Cdyl	chromodomain protein, Y chromosome-like	12593	NM_001123386	116	96
+Ezh2	enhancer of zeste homolog 2 (Drosophila)	14056	NM_001146689	59, 114	97
+1190002N15Rik	RIKEN cDNA 1190002N15 gene	68861	NM_001033145	2332	99
+Pde4a	phosphodiesterase 4A, cAMP specific	18577	NM_183408	1269	51
+Crebrf	CREB3 regulatory factor	77128	NM_029870	4719	72
+Soga2	SOGA family member 2	68617	NM_172963	751	84
+Gja1	gap junction protein, alpha 1	14609	NM_010288	1187	78
+Cttnbp2	cortactin binding protein 2	30785	NM_080285	320	92
+Smad3	SMAD family member 3	17127	NM_016769	2614	70
+Sgms2	sphingomyelin synthase 2	74442	NM_028943	3731	56
+Ccnc	cyclin C	51813	NM_016746	2104	55
+Papolg	poly(A) polymerase gamma	216578	NM_172555	1267	98
+Lrrc39	leucine rich repeat containing 39	109245	NM_175413	214	58
+Rora	RAR-related orphan receptor alpha	19883	NM_001289916	6462	77
+Ebf2	early B cell factor 2	13592	NM_010095	2817	98
+Abcc5	ATP-binding cassette, sub-family C (CFTR/MRP), member 5	27416	NM_013790	1063	90
+Prkd3	protein kinase D3	75292	NM_001171004	1890	91
+Naca	nascent polypeptide-associated complex alpha polypeptide	17938	NM_013608	81	75
+Desi2	desumoylating isopeptidase 2	78825	NM_024282	1539, 3005	95
+Tlk2	tousled-like kinase 2 (Arabidopsis)	24086	NM_001112705	303	72
+Uevld	UEV and lactate/malate dehyrogenase domains	54122	NM_001040695	191, 2751	92
+Bdp1	B double prime 1, subunit of RNA polymerase III transcription initiation factor IIIB	544971	NM_001081061	853	61
+Lcorl	ligand dependent nuclear receptor corepressor-like	209707	NM_001163073	2933	87
+Htra3	HtrA serine peptidase 3	78558	NM_001042615		97
+Ube2k	ubiquitin-conjugating enzyme E2K	53323	NM_016786	1679	55
+Casp2	caspase 2	12366	NM_007610	949	61
+Ube2a	ubiquitin-conjugating enzyme E2A	22209	NM_019668	197	98
+Orc4	origin recognition complex, subunit 4	26428	NM_011958	34	61
+Gnb1	guanine nucleotide binding protein (G protein), beta 1	14688	NM_001160017	1766	62
+Cmc1	COX assembly mitochondrial protein 1	67899	NM_026442	206	53
+Wdr45b	WD repeat domain 45B	66840	NM_025793	1081	70
+Pcdh18	protocadherin 18	73173	NM_130448	1258	60
+Nr6a1	nuclear receptor subfamily 6, group A, member 1	14536	NM_010264	4417	62
+Cadm2	cell adhesion molecule 2	239857	NM_001145977	5879	54
+Bclaf1	BCL2-associated transcription factor 1	72567	NM_001025393	96	88
+Olfm1	olfactomedin 1	56177	NM_001038612		71
+Trp53inp1	transformation related protein 53 inducible nuclear protein 1	60599	NM_021897	2829	84
+Rnf19a	ring finger protein 19A	30945	NM_013923	596	61
+Dmxl2	Dmx-like 2	235380	NM_172771	543	78
+Abhd17b	abhydrolase domain containing 17B	226016	NM_146096	251, 693	93
+2410004B18Rik	RIKEN cDNA 2410004B18 gene	66421	NM_025555	326	72
+Aqp3	aquaporin 3	11828	NM_016689	759	79
+Dcbld2	discoidin, CUB and LCCL domain containing 2	73379	NM_028523	373, 3179	72
+Dcun1d3	DCN1, defective in cullin neddylation 1, domain containing 3 (S. cerevisiae)	233805	NM_001163703	444, 3123, 3184	65
+Brd8	bromodomain containing 8	78656	NM_001289606	271	86
+Cdc14a	CDC14 cell division cycle 14A	229776	NM_001173553	128	59
+Ednra	endothelin receptor type A	13617	NM_010332	195, 974	92
+Zbtb34	zinc finger and BTB domain containing 34	241311	NM_001276332	903, 2707	98
+Syncrip	synaptotagmin binding, cytoplasmic RNA interacting protein	56403	NM_019796	649, 4323	87
+Atxn1l	ataxin 1-like	52335	NM_001080930	4909	98
+Erbb2ip	Erbb2 interacting protein	59079	NM_001289473	1707	88
+Fam214a	family with sequence similarity 214, member A	235493	NM_001113283	200	96
+Rev3l	REV3-like, catalytic subunit of DNA polymerase zeta RAD54 like (S. cerevisiae)	19714	NM_011264	802	100
+Adamts17	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 17	233332	NM_001033877	2185, 2396	100
+Nipa2	non imprinted in Prader-Willi/Angelman syndrome 2 homolog (human)	93790	NM_001256133	1282	69
+Leprot	leptin receptor overlapping transcript	230514	NM_175036	39	73
+Kif2a	kinesin family member 2A	16563	NM_008442	960	78
+C130026I21Rik	RIKEN cDNA C130026I21 gene	620078	NM_175219	555	71
+Tbpl1	TATA box binding protein-like 1	237336	NM_011603	1890	51
+Gab1	growth factor receptor bound protein 2-associated protein 1	14388	NM_021356	1196	77
+Pogz	pogo transposable element with ZNF domain	229584	NM_001165948	1192	85
+Hspe1	heat shock protein 1 (chaperonin 10)	15528	NM_008303	148	55
+Ube2d2a	ubiquitin-conjugating enzyme E2D 2A	56550	NM_019912	1350	91
+Zfp207	zinc finger protein 207	22680	NM_001130169	555	93
+Slc19a2	solute carrier family 19 (thiamine transporter), member 2	116914	NM_001276455	1746	67
+Gm17266	predicted gene, 17266	100503964	XM_006543430		60
+Hnrnpf	heterogeneous nuclear ribonucleoprotein F	98758	NM_001166428	520	75
+Tm7sf3	transmembrane 7 superfamily member 3	67623	NM_026281	1265	55
+Sgk1	serum/glucocorticoid regulated kinase 1	20393	NM_001161850	958	95
+Spop	speckle-type POZ protein	20747	NM_025287	1171	69
+LOC100041057	nuclear body protein SP140-like	100041057	XM_006535871		69
+Mms22l	MMS22-like, DNA repair protein	212377	NM_199467	90	62
+Gan	giant axonal neuropathy	209239	NM_001081151	173	69
+Ctsq	cathepsin Q	104002	NM_029636	162	61
+Agfg1	ArfGAP with FG repeats 1	15463	NM_010472	278	66
+Mpzl2	myelin protein zero-like 2	14012	NM_007962	2084	76
+Myrip	myosin VIIA and Rab interacting protein	245049	NM_144557	77, 1658	71
+Prpf4b	PRP4 pre-mRNA processing factor 4 homolog B (yeast)	19134	NM_013830	751	87
+Mars2	methionine-tRNA synthetase 2 (mitochondrial)	212679	NM_175439	572	60
+Eif5a2	eukaryotic translation initiation factor 5A2	208691	NM_177586	2651	96
+Tnks2	tankyrase, TRF1-interacting ankyrin-related ADP-ribose polymerase 2	74493	NM_001163635	327	62
+Cav3	caveolin 3	12391	NM_007617	284	94
+Atxn1	ataxin 1	20238	NM_009124	59, 1030, 1215	90
+Fzd4	frizzled homolog 4 (Drosophila)	14366	NM_008055	597	90
+Sult4a1	sulfotransferase family 4A, member 1	29859	NM_013873	1296	95
+Fzd6	frizzled homolog 6 (Drosophila)	14368	NM_001162494	1535	96
+Plxna2	plexin A2	18845	NM_008882	4657	92
+Zfp804a	zinc finger protein 804A	241514	NM_175513	266	59
+Cxcl10	chemokine (C-X-C motif) ligand 10	15945	NM_021274	271, 668	79
+Nudt19	nudix (nucleoside diphosphate linked moiety X)-type motif 19	110959	NM_033080	15	86
+Socs5	suppressor of cytokine signaling 5	56468	NM_019654	976	91
+Dr1	down-regulator of transcription 1	13486	NM_026106	1635	99
+Robo2	roundabout homolog 2 (Drosophila)	268902	NM_175549	521	79
+Npnt	nephronectin	114249	NM_001287103	600, 2568	96
+Zfand3	zinc finger, AN1-type domain 3	21769	NM_148926	141	90
+Trim6	tripartite motif-containing 6	94088	NM_001013616	1866	85
+Ttpal	tocopherol (alpha) transfer protein-like	76080	NM_181734	1294, 2444	60
+Xkr6	X Kell blood group precursor related family member 6 homolog	219149	NM_173393	501	52
+Rps6ka5	ribosomal protein S6 kinase, polypeptide 5	73086	NM_153587	764	82
+Cpeb3	cytoplasmic polyadenylation element binding protein 3	208922	NM_198300	2960	97
+Cpeb2	cytoplasmic polyadenylation element binding protein 2	231207	NM_175937	1844	87
+Edem3	ER degradation enhancer, mannosidase alpha-like 3	66967	NM_001039644	3234	75
+Rab1	RAB1, member RAS oncogene family	19324	NM_008996	77	86
+Rab11fip4	RAB11 family interacting protein 4 (class II)	268451	NM_175543	1076	66
+Ttbk2	tau tubulin kinase 2	140810	NM_080788	74, 5608	93
+Tnrc6b	trinucleotide repeat containing 6b	213988	NM_144812	1881, 8900, 11244	52
+Nnt	nicotinamide nucleotide transhydrogenase	18115	NM_008710	169	61
+Rab39b	RAB39B, member RAS oncogene family	67790	NM_175122	2409	90
+Slc2a13	solute carrier family 2 (facilitated glucose transporter), member 13	239606	NM_001033633	1778, 4039	83
+Zc3h4	zinc finger CCCH-type containing 4	330474	NM_198631	2032	83
+Begain	brain-enriched guanylate kinase-associated	380785	NM_001163175	759	85
+Smarcd1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 1	83797	NM_031842	1512	95
+Ncaph	non-SMC condensin I complex, subunit H	215387	NM_144818	263	55
+Tor1aip2	torsin A interacting protein 2	240832	NM_172843	2617	62
+Fam60a	family with sequence similarity 60, member A	56306	NM_019643	1674	69
+Rock2	Rho-associated coiled-coil containing protein kinase 2	19878	NM_009072	486, 1145	98
+Pik3c2b	phosphoinositide-3-kinase, class 2, beta polypeptide	240752	NM_001099276	2451	84
+Arhgap32	Rho GTPase activating protein 32	330914	NM_177379	3062, 3155	56
+Mkl2	MKL/myocardin-like 2	239719	NM_153588	4640, 4672	98
+Etnk1	ethanolamine kinase 1	75320	NM_029250	3359	80
+Smek2	SMEK homolog 2, suppressor of mek1 (Dictyostelium)	104570	NM_134034	1879	65
+Phlda1	pleckstrin homology-like domain, family A, member 1	21664	NM_009344	287	97
+Trp63	transformation related protein 63	22061	NM_001127264	2285	82
+Fbxw7	F-box and WD-40 domain protein 7	50754	NM_001177773	788	87
+Ankzf1	ankyrin repeat and zinc finger domain containing 1	52231	NM_001267620		65
+Rasd2	RASD family, member 2	75141	NM_029182	680	94
+Arid1a	AT rich interactive domain 1A (SWI-like)	93760	NM_001080819	551	96
+Slc25a36	solute carrier family 25, member 36	192287	NM_138756	358	87
+Ranbp9	RAN binding protein 9	56705	NM_019930	505	99
+Trpc7	transient receptor potential cation channel, subfamily C, member 7	26946	NM_012035	533	62
+Trpc4	transient receptor potential cation channel, subfamily C, member 4	22066	NM_016984	246	99
+Atrx	alpha thalassemia/mental retardation syndrome X-linked homolog (human)	22589	NM_009530	987, 2388	87
+Rnf146	ring finger protein 146	68031	NM_026518	2600	75
+Bag2	BCL2-associated athanogene 2	213539	NM_145392	1085	82
+Bcl2l11	BCL2-like 11 (apoptosis facilitator)	12125	NM_009754	2346	58
+B3galnt2	UDP-GalNAc:betaGlcNAc beta 1,3-galactosaminyltransferase, polypeptide 2	97884	NM_178640	1281	61
+Exoc5	exocyst complex component 5	105504	NM_207214	1604	64
+Glra2	glycine receptor, alpha 2 subunit	237213	NM_183427	1050	78
+Ap3s1	adaptor-related protein complex 3, sigma 1 subunit	11777	NM_009681	120	79
+Eed	embryonic ectoderm development	13626	NM_021876	152	96
+Sfrs18	serine/arginine-rich splicing factor 18	66625	NM_025669	271	75
+Dlg5	discs, large homolog 5 (Drosophila)	71228	NM_001163513	1146	77
+Supt7l	suppressor of Ty 7-like	72195	NM_028150	189	56
+Trim24	tripartite motif-containing 24	21848	NM_001272064	1365	58
+Rc3h2	ring finger and CCCH-type zinc finger domains 2	319817	NM_001100591	1481, 1877	58
+Yaf2	YY1 associated factor 2	67057	NM_024189	654	79
+Ick	intestinal cell kinase	56542	NM_019987	4003	95
+Ero1l	ERO1-like (S. cerevisiae)	50527	NM_015774	2692	91
+Metap1	methionyl aminopeptidase 1	75624	NM_175224	37, 231, 937	77
+Zfp595	zinc finger protein 595	218314	NM_177622	1758	88
+Rsf1	remodeling and spacing factor 1	233532	NM_001081267	481	66
+Pgm3	phosphoglucomutase 3	109785	NM_001163746	2351	70
+Slc38a2	solute carrier family 38, member 2	67760	NM_175121	2172, 2616	89
+Lrrc4	leucine rich repeat containing 4	192198	NM_138682	479	60
+Cacnb2	calcium channel, voltage-dependent, beta 2 subunit	12296	NM_023116	463, 470, 1229	99
+Shisa6	shisa homolog 6 (Xenopus laevis)	380702	NM_001034874	5628	94
+Mak	male germ cell-associated kinase	17152	NM_001145803	1035	60
+Stard13	StAR-related lipid transfer (START) domain containing 13	243362	NM_001163493	278	59
+Prkce	protein kinase C, epsilon	18754	NM_011104	3163	97
+Usp38	ubiquitin specific peptidase 38	74841	NM_027554	726	55
+Nxpe2	neurexophilin and PC-esterase domain family, member 2	78252	NM_030069	494	64
+Ssu72	Ssu72 RNA polymerase II CTD phosphatase homolog (yeast)	68991	NM_026899	115	88
+Slc8a1	solute carrier family 8 (sodium/calcium exchanger), member 1	20541	NM_011406	3000, 9524, 15447	75
+Cep350	centrosomal protein 350	74081	NM_001039184	3346	86
+Lsm14a	LSM14 homolog A (SCD6, S. cerevisiae)	67070	NM_025948	847	66
+Rxrb	retinoid X receptor beta	20182	NM_011306	583	65
+Baz2a	bromodomain adjacent to zinc finger domain, 2A	116848	NM_054078	415	53

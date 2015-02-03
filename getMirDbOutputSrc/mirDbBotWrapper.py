@@ -10,7 +10,7 @@ class mirBotInput():
 
 
 def mirDbBotWrapper(mirName):
-    ipdb.set_trace()
+#    ipdb.set_trace()
     
     defUrl = "http://mirdb.org/miRDB/index.html"
     custUrl = "http://mirdb.org/miRDB/custom.html"
@@ -25,13 +25,19 @@ def mirDbBotWrapper(mirName):
     allBotInputs.append(mirBotInput(defUrl, region3utr))
 
     for item in allBotInputs:
+        print ("Loading Bot..")
         bot = MDB.mirDbBot()
+        print("Bot load successful")
         url = item.url
         bot.openPage(url)
+        print("Page open successful")
         species = "'Mouse'"
         region = item.region
         bot.fillForm(species, region, mirName)
+        print("Fill form successful")
         resDict = bot.getResult()
         bot.killFox()
+        print("Bot closure successful")
         fPath = '../mirDbOutput/%s_%s_%s' %(mirName, region[1:-1], species[1:-1])
         bot.printOutput(fPath, resDict)
+        print("Save extraction successful")

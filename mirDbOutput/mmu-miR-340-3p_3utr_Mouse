@@ -1,0 +1,25 @@
+Gene Symbol	Gene Description	Gene ID	Genbank Accession	Seed Location	Target Score
+Serpinb10	serine (or cysteine) peptidase inhibitor, clade B (ovalbumin), member 10	241197	NM_001160307	72	88
+Adamts9	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 9	101401	NM_175314	29	75
+Dusp8	dual specificity phosphatase 8	18218	NM_008748	2352	79
+Zfp202	zinc finger protein 202	80902	NM_030713	41	74
+Atxn2l	ataxin 2-like	233871	NM_183020	276	86
+Barx2	BarH-like homeobox 2	12023	NM_013800	614	55
+Slc30a9	solute carrier family 30 (zinc transporter), member 9	109108	NM_178651	1142	53
+Rgs1	regulator of G-protein signaling 1	50778	NM_015811	317	53
+Mapk12	mitogen-activated protein kinase 12	29857	NM_013871	397	60
+Gmip	Gem-interacting protein	78816	NM_198101	87, 290	55
+Ggnbp2	gametogenetin binding protein 2	217039	NM_153144	136	72
+Rpe65	retinal pigment epithelium 65	19892	NM_029987	98	85
+Secisbp2l	SECIS binding protein 2-like	70354	NM_177608	1217, 2647	60
+Acbd5	acyl-Coenzyme A binding domain containing 5	74159	NM_001102437	48	56
+Ptges	prostaglandin E synthase	64292	NM_022415	1170	65
+Nadk2	NAD kinase 2, mitochondrial	68646	NM_001286255	178	78
+Csgalnact1	chondroitin sulfate N-acetylgalactosaminyltransferase 1	234356	NM_001252623	1203	73
+Ppp1cb	protein phosphatase 1, catalytic subunit, beta isoform	19046	NM_172707	126	83
+Tgif1	TGFB-induced factor homeobox 1	21815	NM_001164075	241	53
+Mnt	max binding protein	17428	NM_010813	2390	70
+Celf2	CUGBP, Elav-like family member 2	14007	NM_001110231	118	79
+Lin28a	lin-28 homolog A (C. elegans)	83557	NM_145833	2451	81
+Grm1	glutamate receptor, metabotropic 1	14816	NM_016976	461	78
+Bicd2	bicaudal D homolog 2 (Drosophila)	76895	NM_029791	402	72

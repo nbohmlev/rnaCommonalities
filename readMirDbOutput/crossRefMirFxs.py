@@ -41,24 +41,30 @@ def compareTwo(protList, mirTab):
 if __name__ == "__main__":
     allProtFiles = glob.glob("../geneLists/*.txt")
     allMirFiles = glob.glob("../mirDbOutput/*")
-    fPath = "../crossRefOutput/allCrossRefs.txt"
-    with open (fPath, 'w') as f:
-        for item in allProtFiles:
-            protTab = loadProtStudy(item)
-            for innerItem in allMirFiles:
-                mirTab = loadMirTargets(innerItem)
-                intSect = compareTwo(protTab, mirTab)
-                primStr = item.split('/')[2][0:-4]
-                secStr = innerItem.split('/')[2]
-                id1 = secStr.rfind('-')
-                id2 = secStr.rfind('_')
-                secStr = secStr[id1+1:id2]
+
+    num = 0
+    ipdb.set_trace()
+    while num < len(allMirFiles):
+        mirFile = allMirFiles[num]
+        fPath = "../crossRefOutput/%s.txt" % (mirFile[mirFile.find("-")+5:mirFile.find("_")])
+        with open (fPath, 'w') as f:
+            for item in allProtFiles:
+                protTab = loadProtStudy(item)
+                for innerItem in allMirFiles:
+                    mirTab = loadMirTargets(innerItem)
+                    intSect = compareTwo(protTab, mirTab)
+                    primStr = item.split('/')[2][0:-4]
+                    secStr = innerItem.split('/')[2]
+                    id1 = secStr.rfind('-')
+                    id2 = secStr.rfind('_')
+                    secStr = secStr[id1+1:id2]
                 #ipdb.set_trace()
-                finList = []
-                for gene in intSect:
-                    currRow = mirTab.ix[mirTab["Gene Symbol"] == gene]
-                    tScore = currRow["Target Score"]
-                    finName = "%s, %d" %(gene, tScore)
-                    finList.append(finName)
-                str = "%s\t%s\t%s\n" %(primStr, secStr, ' ,'.join(finList))
-                f.write(str)
+                    finList = []
+                    for gene in intSect:
+                        currRow = mirTab.ix[mirTab["Gene Symbol"] == gene]
+                        tScore = currRow["Target Score"]
+                        finName = "%s, %d" %(gene, tScore)
+                        finList.append(finName)
+                        str = "%s\t%s\t%s\n" %(primStr, secStr, ' ,'.join(finList))
+                        f.write(str)
+        num = num + 3

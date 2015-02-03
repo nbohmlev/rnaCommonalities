@@ -1,0 +1,96 @@
+Gene Symbol	Gene Description	Gene ID	Genbank Accession	Seed Location	Target Score
+Capzb	capping protein (actin filament) muscle Z-line, beta	12345	NM_009798	636	66
+Rerg	RAS-like, estrogen-regulated, growth-inhibitor	232441	NM_001164214	604	68
+Chic1	cysteine-rich hydrophobic domain 1	12212	NM_009767	6163	86
+Cand1	cullin associated and neddylation disassociated 1	71902	NM_027994	3943, 4151	52
+Cnot4	CCR4-NOT transcription complex, subunit 4	53621	NM_001164411	390	52
+Lrrc4c	leucine rich repeat containing 4C	241568	NM_001289742	82	69
+Gm5141	predicted gene 5141	380850	NM_001256065	205	57
+Cryl1	crystallin, lambda 1	68631	NM_030004	326	63
+Syt1	synaptotagmin I	20979	NM_009306	199	58
+Sp4	trans-acting transcription factor 4	20688	NM_009239	2811	71
+Pds5b	PDS5, regulator of cohesion maintenance, homolog B (S. cerevisiae)	100710	NM_175310	798	95
+Gpr171	G protein-coupled receptor 171	229323	NM_173398	332	80
+Gm14446	predicted gene 14446	667373	NM_001101605	46	51
+Steap4	STEAP family member 4	117167	NM_054098	1372	53
+Asah1	N-acylsphingosine amidohydrolase 1	11886	NM_019734	354	76
+Fbxl5	F-box and leucine-rich repeat protein 5	242960	NM_001159963	656	67
+Mapk8	mitogen-activated protein kinase 8	26419	NM_016700	936	86
+Cnst	consortin, connexin sorting protein	226744	NM_146105	2258	55
+Acvr1	activin A receptor, type 1	11477	NM_001110205	1041	89
+Cfi	complement component factor i	12630	NM_007686	162	88
+Ddx50	DEAD (Asp-Glu-Ala-Asp) box polypeptide 50	94213	NM_053183	164	65
+Scn9a	sodium channel, voltage-gated, type IX, alpha	20274	NM_018852	1451	68
+Negr1	neuronal growth regulator 1	320840	NM_001039094	280	79
+Rpgrip1l	Rpgrip1-like	244585	NM_173431	1206	78
+Opcml	opioid binding protein/cell adhesion molecule-like	330908	NM_177906	54	88
+Jade3	jade family PHD finger 3	382207	NM_199317	274	55
+Pyurf	Pigy upstream reading frame	66459	NM_025574	1181, 1709, 4490	57
+Cgrrf1	cell growth regulator with ring finger domain 1	68755	NM_026832	76	76
+Sc5d	sterol-C5-desaturase (fungal ERG3, delta-5-desaturase) homolog (S. cerevisae)	235293	NM_172769	39, 1009	62
+Olfr44	olfactory receptor 44	18343	NM_146830	78	76
+C530025M09Rik	RIKEN cDNA C530025M09 gene	319470	XM_006543693	516, 1893	71
+Gm10349	predicted gene 10349	621832	XM_006543402	284	87
+Sdc1	syndecan 1	20969	NM_011519	611	72
+Tmeff2	transmembrane protein with EGF-like and two follistatin-like domains 2	56363	NM_019790	111, 701, 1413	82
+Gpr158	G protein-coupled receptor 158	241263	NM_001004761	2749	70
+Cpeb3	cytoplasmic polyadenylation element binding protein 3	208922	NM_198300	2400	82
+Cnksr2	connector enhancer of kinase suppressor of Ras 2	245684	NM_177751	1370	54
+Slc31a1	solute carrier family 31, member 1	20529	NM_175090	1486	51
+Rpain	RPA interacting protein	69723	NM_027186	208	60
+Phyhipl	phytanoyl-CoA hydroxylase interacting protein-like	70911	NM_001162846	338	92
+Faah	fatty acid amide hydrolase	14073	NM_010173	1185	52
+Hoxa9	homeobox A9	15405	NM_010456	299	89
+Uri1	URI1, prefoldin-like chaperone	19777	NM_011274	398	93
+Kctd6	potassium channel tetramerisation domain containing 6	71393	NM_027782	265	78
+Kctd9	potassium channel tetramerisation domain containing 9	105440	NM_001285933	897	54
+Zfp868	zinc finger protein 868	234362	NM_001045553	480, 534	51
+Fam193a	family with sequence similarity 193, member A	231128	NM_001243123	452	73
+Gm6910	predicted gene 6910	628746	XM_893519	252	68
+Dnase2b	deoxyribonuclease II beta	56629	NM_019957	517	73
+Fam60a	family with sequence similarity 60, member A	56306	NM_019643	1714	63
+Zfp808	zinc finger protein 80	630579	NM_001039239	109	71
+Dgkb	diacylglycerol kinase, beta	217480	NM_178681	2357	54
+Ptbp2	polypyrimidine tract binding protein 2	56195	NM_019550	1101	80
+Etv1	ets variant gene 1	14009	NM_001163154	479	74
+Hmbox1	homeobox containing 1	219150	NM_177338	1226	89
+Epha7	Eph receptor A7	13841	NM_010141	3067	67
+Xcr1	chemokine (C motif) receptor 1	23832	NM_011798	1971	65
+Brd1	bromodomain containing 1	223770	NM_001033274	1205	51
+Map7	microtubule-associated protein 7	17761	NM_008635	1340, 1534	52
+Tm4sf20	transmembrane 4 L six family member 20	66261	NM_025453	768	55
+Suclg2	succinate-Coenzyme A ligase, GDP-forming, beta subunit	20917	NM_011507	562	55
+Vsnl1	visinin-like 1	26950	NM_012038	874	69
+Katnbl1	katanin p80 subunit B like 1	72425	NM_024254	158	71
+Tmem129	transmembrane protein 129	68366	NM_026698	96	91
+Bcat1	branched chain aminotransferase 1, cytosolic	12035	NM_001024468	1128	57
+Bche	butyrylcholinesterase	12038	NM_009738	1485	66
+Tcf24	transcription factor 24	100039596	NM_001285425	3028	66
+Ttc26	tetratricopeptide repeat domain 26	264134	NM_153600	198, 2085	63
+Ttc5	tetratricopeptide repeat domain 5	219022	NM_001080949		79
+Ttc3	tetratricopeptide repeat domain 3	22129	NM_009441	434	75
+Napepld	N-acyl phosphatidylethanolamine phospholipase D	242864	NM_178728	2203	73
+Zfp619	zinc finger protein 619	70227	NM_001004139	1447	56
+Rag2	recombination activating gene 2	19374	NM_009020	41, 268	92
+6720489N17Rik	RIKEN cDNA 6720489N17 gene	211378	NM_173381	981	70
+Ppih	peptidyl prolyl isomerase H	66101	NM_001110129	1307	56
+Pah	phenylalanine hydroxylase	18478	NM_008777	427	85
+Cadm2	cell adhesion molecule 2	239857	NM_001145977	5765, 6653	59
+Stk40	serine/threonine kinase 40	74178	NM_028800	265	88
+Glrb	glycine receptor, beta subunit	14658	NM_010298	264	74
+Dstn	destrin	56431	NM_019771	748	56
+Ndufs4	NADH dehydrogenase (ubiquinone) Fe-S protein 4	17993	NM_010887	636	69
+Csn2	casein beta	12991	NM_001286020	114	56
+Hspa13	heat shock protein 70 family, member 13	110920	NM_030201	519	57
+Zfp934	zinc finger protein 934	77117	NM_175252	109	70
+Zfp935	zinc finger protein 935	71508	NM_178875	465	73
+Gdap1	ganglioside-induced differentiation-associated-protein 1	14545	NM_010267	1973	60
+Glt8d1	glycosyltransferase 8 domain containing 1	76485	NM_001165930	297, 369	62
+Osbpl2	oxysterol binding protein-like 2	228983	NM_144500	965	57
+Brwd3	bromodomain and WD repeat domain containing 3	382236	NM_001081477	71	85
+Ddah1	dimethylarginine dimethylaminohydrolase 1	69219	NM_026993	84	55
+Gpr37	G protein-coupled receptor 37	14763	NM_010338	469	68
+Tpmt	thiopurine methyltransferase	22017	NM_016785	1661	75
+Nkain2	Na+/K+ transporting ATPase interacting 2	432450	NM_001025286		95
+Csmd2	CUB and Sushi multiple domains 2	329942	NM_001281955	2537	57
+Pgr	progesterone receptor	18667	NM_008829	3112	60

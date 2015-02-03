@@ -1,0 +1,158 @@
+Gene Symbol	Gene Description	Gene ID	Genbank Accession	Seed Location	Target Score
+Cdh10	cadherin 10	320873	NM_009865	958	76
+Ncoa6	nuclear receptor coactivator 6	56406	NM_019825	4804, 6169	76
+Strn3	striatin, calmodulin binding protein 3	94186	NM_001172098	1834	84
+Rad21	RAD21 homolog (S. pombe)	19357	NM_009009	931	50
+Ano6	anoctamin 6	105722	NM_175344	986	50
+Rbbp6	retinoblastoma binding protein 6	19647	NM_175023		50
+Alg5	asparagine-linked glycosylation 5 (dolichyl-phosphate beta-glucosyltransferase)	66248	NM_025442	85	85
+Arl15	ADP-ribosylation factor-like 15	218639	NM_172595	16	65
+Fam229b	family with sequence similarity 229, member B	66337	NM_183254	163	73
+Trip4	thyroid hormone receptor interactor 4	56404	NM_019797	545	51
+A830018L16Rik	RIKEN cDNA A830018L16 gene	320492	NM_001160369	88	72
+Pde5a	phosphodiesterase 5A, cGMP-specific	242202	NM_153422	623	63
+Lrba	LPS-responsive beige-like anchor	80877	NM_001077687	7345	61
+Gm5294	predicted gene 5294	384244	NM_001195128	26	63
+Ccdc39	coiled-coil domain containing 39	51938	NM_026222	1087	75
+Arid5b	AT rich interactive domain 5B (MRF1-like)	71371	NM_023598	818, 896	86
+Gm4841	predicted gene 4841	225594	NM_001034859	799	64
+Pigk	phosphatidylinositol glycan anchor biosynthesis, class K	329777	NM_178016	131	65
+Slco4c1	solute carrier organic anion transporter family, member 4C1	227394	NM_172658	1786	93
+Cd36	CD36 antigen	12491	NM_001159558	959, 1126	72
+Rexo2	REX2, RNA exonuclease 2 homolog (S. cerevisiae)	104444	NM_024233	199	70
+Sptlc3	serine palmitoyltransferase, long chain base subunit 3	228677	NM_175467	443	51
+Cenpp	centromere protein P	66336	NM_025495	400	52
+Rbm39	RNA binding motif protein 39	170791	NM_133242	781	93
+Smarca5	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5	93762	NM_053124	1819	80
+Asah1	N-acylsphingosine amidohydrolase 1	11886	NM_019734	436	76
+Scp2	sterol carrier protein 2, liver	20280	NM_011327	275	83
+Tmx1	thioredoxin-related transmembrane protein 1	72736	NM_028339	289	60
+Klra33	killer cell lectin-like receptor subfamily A member 33	654450	NM_001039118	257, 731	51
+Cyp2j11	cytochrome P450, family 2, subfamily j, polypeptide 11	100066	NM_001004141	985	61
+Apbb3	amyloid beta (A4) precursor protein-binding, family B, member 3	225372	NM_146085	431	51
+Trpm3	transient receptor potential cation channel, subfamily M, member 3	226025	NM_177341	3583	71
+Hmmr	hyaluronan mediated motility receptor (RHAMM)	15366	NM_013552	1861	64
+Dicer1	dicer 1, ribonuclease type III	192119	NM_148948	1405	82
+Ift80	intraflagellar transport 80	68259	NM_026641	2087	62
+Fcf1	FCF1 small subunit (SSU) processome component homolog (S. cerevisiae)	73736	NM_028632	304	69
+Kcnq5	potassium voltage-gated channel, subfamily Q, member 5	226922	NM_001160139	2671	94
+Mgat2	mannoside acetylglucosaminyltransferase 2	217664	NM_146035	1016	52
+Atp11c	ATPase, class VI, type 11C	320940	NM_001001798	295	80
+Mybpc1	myosin binding protein C, slow-type	109272	NM_001252372	896	68
+Fbln1	fibulin 1	14114	NM_010180	680, 779, 818, 1607	95
+E130311K13Rik	RIKEN cDNA E130311K13 gene	329659	NM_177856	256	73
+Ccp110	centriolar coiled coil protein 110	101565	NM_182995	424, 2380	90
+Cd163	CD163 antigen	93671	NM_001170395	410, 734, 875, 2417	54
+Syap1	synapse associated protein 1	67043	NM_025932	256	68
+Perp	PERP, TP53 apoptosis effector	64058	NM_022032	446	54
+LOC100041483	protein TCL1B3-like	100041483	XM_001473227	157	52
+Pa2g4	proliferation-associated 2G4	18813	NM_011119	248	89
+Gm1123	predicted gene 1123	382097	NM_001080776	1072	60
+Foxp1	forkhead box P1	108655	NM_001197322	1172	57
+Cdc73	cell division cycle 73, Paf1/RNA polymerase II complex component	214498	NM_145991	613	54
+Zfp318	zinc finger protein 318	57908	NM_207671	3424	54
+Eftud2	elongation factor Tu GTP binding domain containing 2	20624	NM_011431	1690	54
+Nrd1	nardilysin, N-arginine dibasic convertase, NRD convertase 1	230598	NM_146150	2413	82
+Ttc17	tetratricopeptide repeat domain 17	74569	NM_183106	1660	51
+Rint1	RAD50 interactor 1	72772	NM_177323	1465	67
+Edem1	ER degradation enhancer, mannosidase alpha-like 1	192193	NM_138677	706, 1412	67
+Mme	membrane metallo endopeptidase	17380	NM_008604	28, 515	71
+Ptgfrn	prostaglandin F2 receptor negative regulator	19221	NM_011197	2455	77
+Utp20	UTP20, small subunit (SSU) processome component, homolog (yeast)	70683	NM_175158	5350, 6598	78
+C2cd5	C2 calcium-dependent domain containing 5	74741	NM_001286578	857, 1553	75
+Lrrc19	leucine rich repeat containing 19	100061	NM_175305	694	75
+Cdh20	cadherin 20	23836	NM_011800	1003, 1384	88
+Cd80	CD80 antigen	12519	NM_009855	448	65
+Tbc1d32	TBC1 domain family, member 32	544696	NM_001033385	2257	79
+Bmper	BMP-binding endothelial regulator	73230	NM_028472	761, 1940	85
+Nf1	neurofibromatosis 1	18015	NM_010897	5045	59
+Cct6a	chaperonin containing Tcp1, subunit 6a (zeta)	12466	NM_009838	259, 355	55
+LOC102636259	balbiani ring protein 3-like	102636259	XM_006512946	194	51
+Hnrnpul1	heterogeneous nuclear ribonucleoprotein U-like 1	232989	NM_144922	650	86
+Stim2	stromal interaction molecule 2	116873	NM_001081103	355, 635	76
+Manba	mannosidase, beta A, lysosomal	110173	NM_027288	227	63
+Commd3	COMM domain containing 3	12238	NM_147778	373	86
+Lypd6b	LY6/PLAUR domain containing 6B	71897	NM_027990	230	65
+Olfr1248	olfactory receptor 1248	258787	NM_146791	805	59
+Cap1	CAP, adenylate cyclase-associated protein 1 (yeast)	12331	NM_007598	1115	79
+Olfr895	olfactory receptor 895	258875	NM_146875	754	64
+Colec12	collectin sub-family member 12	140792	NM_130449	95, 2087	76
+Fetub	fetuin beta	59083	NM_001083904	173	73
+Vmn2r17	vomeronasal 2, receptor 17	384221	NM_001104628	392, 2011	51
+Vmn2r16	vomeronasal 2, receptor 16	384220	NM_001104627	395, 2014	55
+Jag1	jagged 1	16449	NM_013822	1142, 2867	86
+Nkain2	Na+/K+ transporting ATPase interacting 2	432450	NM_001013411	514	71
+Alkbh1	alkB, alkylation repair homolog 1 (E. coli)	211064	NM_001102565	530	61
+Ubqln1	ubiquilin 1	56085	NM_152234	1132	60
+Zfp800	zinc finger protein 800	627049	NM_001081678	1606	73
+Erlec1	endoplasmic reticulum lectin 1	66753	NM_025745	1267	61
+Adamts9	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 9	101401	NM_175314	2681, 3437	82
+Igsf10	immunoglobulin superfamily, member 10	242050	NM_001162884	1696, 4207	66
+Dmbt1	deleted in malignant brain tumors 1	12945	NM_007769	371, 818, 1232, 1649, 2066, 2483, 4084, 4373	73
+Trp53tg5	transformation related protein 53 target 5	73603	NM_001271575	583	66
+B630005N14Rik	RIKEN cDNA B630005N14 gene	101148	NM_175312	460	89
+LOC102643100	rRNA-processing protein FCF1 homolog	102643100	XM_006542946	304	69
+Prl6a1	prolactin family 6, subfamily a, member 1	19111	NM_011166	388	52
+Decr1	2,4-dienoyl CoA reductase 1, mitochondrial	67460	NM_026172	490	54
+Lrp2	low density lipoprotein receptor-related protein 2	14725	NM_001081088	1510	62
+Pnpt1	polyribonucleotide nucleotidyltransferase 1	71701	NM_027869	1660, 2056	93
+Brcc3	BRCA1/BRCA2-containing complex, subunit 3	210766	NM_145956	379	73
+Nhsl1	NHS-like 1	215819	NM_001163592	523	53
+Ralgapa1	Ral GTPase activating protein, alpha subunit 1	56784	NM_019994	422	51
+Gm609	predicted gene 609	208166	NM_001005854	364, 697	61
+Tex15	testis expressed gene 15	104271	NM_031374	50, 1676	89
+Npas3	neuronal PAS domain protein 3	27386	NM_013780	73	78
+Rpp30	ribonuclease P/MRP 30 subunit	54364	NM_019428	379	68
+Vwde	von Willebrand factor D and EGF domains	232585	NM_001013757	1576	56
+Postn	periostin, osteoblast specific factor	50706	NM_001198766	2155	59
+Prg4	proteoglycan 4 (megakaryocyte stimulating factor, articular superficial zone protein)	96875	NM_021400	143	59
+Lgi1	leucine-rich repeat LGI family, member 1	56839	NM_020278	1505	64
+Gdpd4	glycerophosphodiester phosphodiesterase domain containing 4	233537	NM_177696	571, 1694	77
+Phip	pleckstrin homology domain interacting protein	83946	NM_001081216	1318	50
+Prkd3	protein kinase D3	75292	NM_001171005	320	77
+Ankrd7	ankyrin repeat domain 7	75196	NM_029202	790	59
+Dnah12	dynein, axonemal, heavy chain 12	110083	XM_006543131	866	55
+Grsf1	G-rich RNA sequence binding factor 1	231413	NM_001098476	694	99
+Ampd1	adenosine monophosphate deaminase 1	229665	NM_001033303	878	75
+Zhx1	zinc fingers and homeoboxes 1	22770	NM_009572	790, 1099	76
+Slc7a6os	solute carrier family 7, member 6 opposite strand	66432	NM_001007567	734	51
+Bcat1	branched chain aminotransferase 1, cytosolic	12035	NM_007532	763	79
+LOC102639553	uncharacterized LOC102639553	102639553	XM_006527540	35, 77, 119, 161, 203, 245, 287, 329, 371, 413, 455, 497, 539, 581, 623, 665, 707, 749, 791, 833, 875, 917, 959, 1001, 1043, 1085, 1127, 1169, 1211, 1253, 1295, 1337, 1379, 1421, 1463, 1505	83
+Vmn1r207-ps	vomeronasal 1 receptor 207, pseudogene	432735	NM_001166709	40	64
+Hsp90aa1	heat shock protein 90, alpha (cytosolic), class A member 1	15519	NM_010480	1118	63
+Pcdh11x	protocadherin 11 X-linked	245578	NM_001271810	1147, 1774, 2464	85
+2610018G03Rik	RIKEN cDNA 2610018G03 gene	70415	NM_133729	211	63
+Mis18bp1	MIS18 binding protein 1	217653	NM_172578	2473	56
+Orc2	origin recognition complex, subunit 2	18393	NM_001271526	1060, 1319	84
+Smpd3	sphingomyelin phosphodiesterase 3, neutral	58994	NM_021491	1535	50
+Slc38a11	solute carrier family 38, member 11	320106	NM_177074	391, 710	80
+Usp28	ubiquitin specific peptidase 28	235323	NM_175482	455, 2069	54
+Olfr900	olfactory receptor 900	258874	NM_146874	754	60
+Lcmt1	leucine carboxyl methyltransferase 1	30949	NM_025304	580	51
+Eif3j1	eukaryotic translation initiation factor 3, subunit J1	78655	NM_144545	158	52
+Lrrc9	leucine rich repeat containing 9	78257	NM_001142729		56
+Immt	inner membrane protein, mitochondrial	76614	NM_001253688	733	66
+Scaf4	SR-related CTD-associated factor 4	224432	NM_178923	274	66
+Dstn	destrin	56431	NM_019771	190	58
+Foxo1	forkhead box O1	56458	NM_019739	914, 1355	83
+Nup155	nucleoporin 155	170762	NM_133227	1447, 3119	93
+Tcl1b3	T cell leukemia/lymphoma 1B, 3	27378	NM_013772	157	52
+Gphn	gephyrin	268566	NM_172952	703	71
+Olfr628	olfactory receptor 628	259159	NM_147097	676	77
+Cspp1	centrosome and spindle pole associated protein 1	211660	NM_026493	1885	70
+Olfr1451	olfactory receptor 1451	258700	NM_146705	661	66
+Zfyve9	zinc finger, FYVE domain containing 9	230597	NM_183300	1811	59
+Vmn1r206	vomeronasal 1 receptor 206	171250	NM_134216	40	66
+Sobp	sine oculis-binding protein homolog (Drosophila)	109205	NM_175407	653	52
+Zfp748	zinc finger protein 748	212276	NM_001035231	578	62
+Mkln1	muskelin 1, intracellular mediator containing kelch motifs	27418	NM_013791	1993	72
+Dhx15	DEAH (Asp-Glu-Ala-His) box polypeptide 15	13204	NM_001042620	914	83
+Zbtb33	zinc finger and BTB domain containing 33	56805	NM_020256	499	91
+Vmn1r209	vomeronasal 1 receptor 209	432736	NM_001013787	40	69
+Rnmt	RNA (guanine-7-) methyltransferase	67897	NM_026440	739	65
+Chd2	chromodomain helicase DNA binding protein 2	244059	NM_001081345	5459	70
+Xpo4	exportin 4	57258	NM_020506	1054	73
+Jak2	Janus kinase 2	16452	NM_001048177	868	65
+Atg5	autophagy related 5	11793	NM_053069	79	58
+Mapk6	mitogen-activated protein kinase 6	50772	NM_027418	1055	56
+LOC630751	interferon-inducible GTPase 1-like	630751	XM_003945749		63
